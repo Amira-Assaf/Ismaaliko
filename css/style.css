@@ -10643,7 +10643,7 @@ img {
 	display:none;
 }
 /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
-@media (min-width:320px)  and (max-width:600px){ 
+@media (min-width:220px)  and (max-width:600px){ 
 	.hide{
 		display:none !important;
 	}
