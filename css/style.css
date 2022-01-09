@@ -10194,7 +10194,7 @@ textarea.form-control {
 	height:120px;
 	width:120px !important;
 	border-radius:50%;
-	margin-top:-60px;
+	margin-top:-60px !important;
 }
 .client-item{
 	margin-top:70px;
@@ -10635,7 +10635,9 @@ img {
   width:100px;
   height:90px;
 }
-
+.client-background{
+		background-image: url('../images/bg5.png');background-repeat: no-repeat;background-color:#F9F9F9;
+	}
 /*/////////////////////////////////////////*/
 .show{
 	display:none;
@@ -10661,8 +10663,8 @@ img {
 	.artcl-header{
 		margin-bottom:40px;
 	}
-	.client-header{
-		padding-top:20px;
+	.client-background{
+		background-image: url('../images/bg4.png') !important;
 	}
 }
 /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
