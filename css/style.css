@@ -10661,6 +10661,9 @@ img {
 	.artcl-header{
 		margin-bottom:40px;
 	}
+	.client-header{
+		padding-top:20px;
+	}
 }
 /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
 @media (min-width:600px) {
